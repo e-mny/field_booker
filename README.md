@@ -7,7 +7,7 @@ Automating the field booking process when the clock strikes 00:00
 2) Create a .env file in directory, containing two variables
 - "USER_NAME"
 - "PASSWORD"
-3) These two variables should be instantialize to the NTU network account
+3) These two variables should be instantialize to the NTU network account credentials respectively
 4) Run "python main.py" to book field
 
   
