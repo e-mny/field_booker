@@ -32,8 +32,8 @@ Time slots:
 """
 
 location_to_book = "mainfield"
-field_num = 1
-timeslot = 1
+field_num = 3
+timeslot = 7
 
 
 
