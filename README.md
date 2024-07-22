@@ -1,4 +1,4 @@
-# field-booker
+# Field Booker
 Automating the field booking process when the clock strikes 00:00
 
 
